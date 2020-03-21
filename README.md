@@ -9,6 +9,11 @@ To angular 4, 5, 6, 7 review mdata-table
    
 There are many options to customize your table and you can customize each cell.
 # Demo
+
+<https://milvergithub.github.io/page-ngm-data-table/>
+
+
+
 <https://ngm-data-table-demo.stackblitz.io>
 
 <https://stackblitz.com/edit/ngm-data-table-demo>
